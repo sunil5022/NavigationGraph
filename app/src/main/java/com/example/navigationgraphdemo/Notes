@@ -1,0 +1,8 @@
+In bottom navigation:
+Menu and nav graph fragment id must be same...
+
+popUpTo = A - B - C if i set popUpTo  A in that case C, B fragment removed and only A fragment left.
+popUpToInclusive = A - B - C if i set popUpToInclusive  A in that case C,B Removed and A also removed.
+
+Argus : If u set default value in nav graph then in kotlin class it is not accept the value of argument.
+
