@@ -8,7 +8,7 @@
         android:id="@+id/tvTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="HOME"
+        android:text="Another approach to achieving a similar effect in Android is by using a SpannableString to style the text programmatically. This allows you to manipulate the appearance of specific parts of the text directly within a single TextView, including creating a drop cap."
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
